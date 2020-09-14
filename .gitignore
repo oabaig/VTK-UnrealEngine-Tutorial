@@ -46,7 +46,20 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
+/Binaries/Win64/UE4Editor.modules
+/Binaries/Win64/UE4Editor-VTKTutorial.dll
+/Binaries/Win64/UE4Editor-VTKTutorial.pdb
+/Binaries/Win64/UE4Editor-VTKTutorial-1848.dll
+/Binaries/Win64/UE4Editor-VTKTutorial-1848.pdb
+/Binaries/Win64/UE4Editor-VTKTutorial-3420.dll
+/Binaries/Win64/UE4Editor-VTKTutorial-3420.pdb
+/Binaries/Win64/UE4Editor-VTKTutorial-7644.dll
+/Binaries/Win64/UE4Editor-VTKTutorial-7644.pdb
+/Binaries/Win64/UE4Editor-VTKTutorial-7786.dll
+/Binaries/Win64/UE4Editor-VTKTutorial-7786.pdb
+/Binaries/Win64/UE4Editor-VTKTutorial-8290.pdb
+/Binaries/Win64/UE4Editor-VTKTutorial-9684.dll
+/Binaries/Win64/UE4Editor-VTKTutorial-9684.pdb
 Plugins/*/Binaries/*
 
 # Builds
