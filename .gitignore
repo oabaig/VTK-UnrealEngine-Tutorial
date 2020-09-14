@@ -60,6 +60,7 @@ SourceArt/**/*.tga
 /Binaries/Win64/UE4Editor-VTKTutorial-8290.pdb
 /Binaries/Win64/UE4Editor-VTKTutorial-9684.dll
 /Binaries/Win64/UE4Editor-VTKTutorial-9684.pdb
+
 Plugins/*/Binaries/*
 
 # Builds
